@@ -1,0 +1,10 @@
+YAKIU IMAGE PLACEHOLDER
+
+To complete the website, you need to add the Yakiu no Oniichan image:
+
+1. Rename the image of Yakiu no Oniichan (the yellow character from the uploaded image) to "yakiu.png"
+2. Place it in the same directory as the HTML file
+3. Make sure the image has a transparent background for best results
+4. Recommended dimensions: width of at least 500px for good quality
+
+The image will automatically be displayed in the hero section with animations. 
